@@ -18,7 +18,7 @@ cd [respective task directory]
 python3 [respective run_file.py]
 ```
 
-## Please make sure you have a Gurobi license while running the Integrality Gap tasks
+####  Please make sure you have a Gurobi license while running the Integrality Gap tasks
 
 ## If you use this code or data in your research, please cite:
 ```
