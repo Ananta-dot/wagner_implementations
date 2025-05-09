@@ -11,9 +11,9 @@
 All the necessary codes are in the format 'run_file.py' for each task under their respective directories.
 
 ## How to run:
-'''
+```
 git clone https://github.com/Ananta-dot/wagner_implementations.git
 pip install -r requirements.txt
 cd [respective task directory]
 python3 [respective run_file.py]
-'''
+```
