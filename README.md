@@ -2,8 +2,8 @@
 
 ### Code accompanying the capstone report "Cross-Entropy Reinforcement Learning for Combinatorial Geometry" as described in:
 
-### Ananta Manoranjan, Cross-Entropy Reinforcement Learning for Combinatorial Geometry, NYU Abu Dhabi Casptone Seminar (Spring 2025).
-### arXiv:2104.14516 – Adam Z. Wagner’s Deep CEM framework applied verbatim to geometric tasks.
+#### Ananta Manoranjan, Cross-Entropy Reinforcement Learning for Combinatorial Geometry, NYU Abu Dhabi Casptone Seminar (Spring 2025).
+#### arXiv:2104.14516 – Adam Z. Wagner’s Deep CEM framework applied verbatim to geometric tasks.
 
 
 
